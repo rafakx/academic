@@ -1,0 +1,4 @@
+deploy:
+  provider: heroku
+  api_key: "d4ad02ba-8af6-4f29-8b64-ce857001f918"
+  app: academic
