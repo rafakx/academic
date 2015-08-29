@@ -43,5 +43,7 @@ group :development, :test do
   gem 'spring'
 
   #gem 'rspec-rails', '~> 2.14'
+
+  gem "codeclimate-test-reporter"
 end
 

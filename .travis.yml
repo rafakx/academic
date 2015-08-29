@@ -2,3 +2,6 @@ deploy:
   provider: heroku
   api_key: "d4ad02ba-8af6-4f29-8b64-ce857001f918"
   app: academic
+addons:
+	code_climate:
+		repo_token: 95f66f30892d223398d6647c6de1ccebd60791d8a11cc2f20b641319e07f9129
