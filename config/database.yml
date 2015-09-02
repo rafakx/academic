@@ -22,10 +22,10 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default  
-  database: d8egfbf90h7503
-  username: jncwxdrfxboomv
-  host: ec2-54-83-59-154.compute-1.amazonaws.com
-  password: ZCLHX7VANyJuWakG-iGWaZFOuI
+  database: dc3qfummk693f2
+  username: knmenrwyczhmnm
+  host: ec2-54-235-134-128.compute-1.amazonaws.com
+  password: jXIYjzQup9hlrggt3nvvaMgwAh
 
 production:
   <<: *default
