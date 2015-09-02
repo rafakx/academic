@@ -1,9 +1,9 @@
 Rails.application.routes.draw do
   
 
+  resources :courses
   resources :tests
   resources :teacher_courses
-  resources :courses
   resources :course_types
   resources :teachers
 
